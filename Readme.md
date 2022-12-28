@@ -1,2 +1,2 @@
-## Sample application working with  database using SQL
+## Sample application, that works with  database using SQL
 
